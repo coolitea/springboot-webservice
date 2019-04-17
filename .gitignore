@@ -3,6 +3,22 @@ HELP.md
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 
+### Eclipse ###
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
 ### STS ###
 .apt_generated
 .classpath
